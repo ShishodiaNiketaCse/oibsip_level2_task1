@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1250331164/vector/abstract-background-of-halftone-dots-and-curved-lines.jpg?s=612x612&w=0&k=20&c=5eXgpBIMfBO68f384rkjshsUgd4GoZuvZKs_w_6tbH4="); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* height: 900;
+    /* background-color: rebeccapurple; */
+}
+
+.container{
+    text-align: center;
+    font-size: 29px;
+    width: 100%;    
+}
+
+table{
+    margin: 44px;
+}
+
+input{
+    border-radius: 29px;
+    font-size: 39px;
+    border: 15px solid #25191c;
+
+
+  }
+
+button{
+    border-radius: 66px;
+    font-size: 30px;
+    background: #f9f238eb;
+    width: 90px;
+    height: 52px;
+}
+
+.calculater{
+    display: inline-block;
+    background-color: #bb7306;
+    border-radius: 34px;
+}
